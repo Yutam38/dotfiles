@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = three.film@gmail.com
+	name = Yuta Miyanaga
